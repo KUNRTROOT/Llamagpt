@@ -1,0 +1,320 @@
+Uri: https://434267010-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FE0eZgP8lxRNljW57Uw4H%2Fuploads%2FzuLTqcvU0P6PejPUONJG%2FArtificial Superintelligence (ASI) Alliance Vision Paper.pdf?alt=media&token=e794c589-d4ef-44d3-97c0-697b06956479
+File Name: G:\copy\singularitynet.io\~\files\v0\b\gitbook-x-prod.appspot.com\o\spacesE0eZgP8lxRNljW57Uw4HuploadszuLTqcvU0P6PejPUONJGArtificial Superintelligence (ASI) Alliance Vision Paper.pdf
+Content Type: application/pdf
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght%40100..900&display=swap&ver=1.0.0
+File Name: G:\copy\singularitynet.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital%2Cwght%400%2C100..900%3B1%2C100..900&display=swap&ver=1.0.0
+File Name: G:\copy\singularitynet.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: G:\copy\singularitynet.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: G:\copy\singularitynet.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: G:\copy\singularitynet.io\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: G:\copy\singularitynet.io\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: G:\copy\singularitynet.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTi3N2DF_kvemts2ymG73vYFumx3NkAjddGn9BUP-6yzGo7p6y0425zE6UOdfAFFz1YbxSNaXwS9iOxLrH55iPbRd4pOg_ZTjIvNL1rKRGBFnMN38rjfiQrfbtkUQ3NUq6iJpsF2HOexzotlpEq4Kw2XyC?key=FDBd-13F1Df2InNYfsTCrQ
+File Name: G:\copy\singularitynet.io\docsz\AD_4nXcTi3N2DF_kvemts2ymG73vYFumx3NkAjddGn9BUP-6yzGo7p6y0425zE6UOdfAFFz1YbxSNaXwS9iOxLrH55iPbRd4pOg_ZTjIvNL1rKRGBFnMN38rjfiQrfbtkUQ3NUq6iJpsF2HOexzotlpEq4Kw2XyC
+Content Type: image/png
+
+Uri: https://public.singularitynet.io/decentralization_report_1.0.pdf
+File Name: G:\copy\singularitynet.io\decentralization_report_1.0.pdf
+Content Type: application/pdf
+
+Uri: https://singularitynet.io/
+File Name: G:\copy\singularitynet.io\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/aboutus/
+File Name: G:\copy\singularitynet.io\aboutus\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/agix-staking-on-cardano-has-arrived/
+File Name: G:\copy\singularitynet.io\agix-staking-on-cardano-has-arrived\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/ambassador-program/
+File Name: G:\copy\singularitynet.io\ambassador-program\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/announcing-the-artificial-superintelligence-vision-paper/
+File Name: G:\copy\singularitynet.io\announcing-the-artificial-superintelligence-vision-paper\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/announcing-the-launch-of-begin-and-our-new-bgi-book-club/
+File Name: G:\copy\singularitynet.io\announcing-the-launch-of-begin-and-our-new-bgi-book-club\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/contact/
+File Name: G:\copy\singularitynet.io\contact\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/cookies-and-privacy-policy/
+File Name: G:\copy\singularitynet.io\cookies-and-privacy-policy\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/ecosystem/
+File Name: G:\copy\singularitynet.io\ecosystem\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/jobs/
+File Name: G:\copy\singularitynet.io\jobs\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/partnership/
+File Name: G:\copy\singularitynet.io\partnership\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/press-media-kit/
+File Name: G:\copy\singularitynet.io\press-media-kit\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/products/
+File Name: G:\copy\singularitynet.io\products\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/research-initiatives/
+File Name: G:\copy\singularitynet.io\research-initiatives\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/roadmap/
+File Name: G:\copy\singularitynet.io\roadmap\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/search-page/
+File Name: G:\copy\singularitynet.io\search-page\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/singularitynet-and-origintrail-announce-strategic-partnership/
+File Name: G:\copy\singularitynet.io\singularitynet-and-origintrail-announce-strategic-partnership\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/singularitynet-and-tenstorrent-partner-to-revolutionize-agi-hardware-ushering-in-a-new-era-of-artificial-intelligence/
+File Name: G:\copy\singularitynet.io\singularitynet-and-tenstorrent-partner-to-revolutionize-agi-hardware-ushering-in-a-new-era-of-artificial-intelligence\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/singularitynet-biweekly-develoment-update-october-18/
+File Name: G:\copy\singularitynet.io\singularitynet-biweekly-develoment-update-october-18\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/technology/
+File Name: G:\copy\singularitynet.io\technology\index.html
+Content Type: text/html
+
+Uri: https://singularitynet.io/wp-json/
+File Name: G:\copy\singularitynet.io\wp-json\index.html
+Content Type: application/json
+
+Uri: https://singularitynet.io/xmlrpc.php?rsd
+File Name: G:\copy\singularitynet.io\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://static.addtoany.com/menu/page.js
+File Name: G:\copy\singularitynet.io\menu\page.js
+Content Type: application/javascript
+
+Uri: https://wiki.opencog.org/wikihome/images/b/b7/MeTTa_Specification.pdf
+File Name: G:\copy\singularitynet.io\wikihome\images\b\b7\MeTTa_Specification.pdf
+Content Type: application/pdf
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LdVYQUqAAAAAI9fpf-gp-uWxCF3QamViX-5MbFD&ver=3.0
+File Name: G:\copy\singularitynet.io\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-PFLFTGQ2SY
+File Name: G:\copy\singularitynet.io\gtag\js
+Content Type: application/javascript
+
